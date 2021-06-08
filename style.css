@@ -6,6 +6,10 @@
     font-family: "GilroyMed";
     src:url("/Users/ivan/Library/Fonts/gilroy-medium.ttf")
 }
+a {
+    text-decoration:none;
+    color:black
+  }
 *{
     margin: 0;
     padding: 0;
