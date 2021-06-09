@@ -3,7 +3,7 @@
     src:url("C:\Users\Cleamaster322\AppData\Local\Microsoft\Windows\Fonts\gilroy-bold.ttf")
 }
 @font-face{
-    font-family: "GilroyMed";
+    font-family: "GilroyM";
     src:url("C:\Users\Cleamaster322\AppData\Local\Microsoft\Windows\Fonts\gilroy-medium.ttf")
 }
 
@@ -62,7 +62,7 @@ a {
     
 }
 .spec{
-    font-family: "GilroyMed";
+    font-family: "GilroyM";
     margin-left: 30.8%;
     margin-top: 8.9%;
     font-size: 18px;
