@@ -1,11 +1,7 @@
-/* @font-face{
+@font-face{
     font-family: "Gilroy";
     src:url("C:\Users\Cleamaster322\AppData\Local\Microsoft\Windows\Fonts\gilroy-bold.ttf")
-} */
-/* @font-face{
-    font-family: "GilroyM";
-    src:url("C:\Users\Cleamaster322\AppData\Local\Microsoft\Windows\Fonts\gilroy-medium.ttf")
-} */
+}
 
 a {
     text-decoration:none;
@@ -62,7 +58,7 @@ a {
     
 }
 .spec{
-    font-family: "GilroyM";
+    font-family: "Gilroy";
     margin-left: 30.8%;
     margin-top: 8.9%;
     font-size: 18px;
@@ -92,7 +88,7 @@ a {
     
 }
 .aboutMe{
-    font-family: "GilroyMed";
+    font-family: "Gilroy";
     display: flex;
     align-items: center;
     justify-content: center;
@@ -115,7 +111,7 @@ H1{
     flex-direction: column;
     justify-content: center;
     display: flex;
-    font-family: "GilroyMed";
+    font-family: "Gilroy";
     height:610px;
 }
 H2{
@@ -174,20 +170,20 @@ H3{
     padding-bottom: 3.13%;
 }
 .portImage{
-    font-family: "GilroyMed";
+    font-family: "Gilroy";
     width:62.6%;
 }
 .figcaptPort{
     margin-top: 44px;
     text-decoration-line: underline;
     font-size: 18px;
-    font-family: "GilroyMed";
+    font-family: "Gilroy";
 }
 .figurePort{
     padding-bottom: 99px;
 }
 footer{
-    font-family: "GilroyMed";
+    font-family: "Gilroy";
     text-align: center;
 }
 H4{
