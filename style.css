@@ -55,6 +55,7 @@ a {
 .name{
     line-height: 58px;
     font-family: "Gilroy";
+    font-weight: 900;
     font-size: 48px;
     width: min-content;
     margin-top: 2.7%;
